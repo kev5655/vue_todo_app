@@ -5,7 +5,7 @@
     <div class="text-center border-b-2 
               border-black py-4">
 
-      <h1 class="text-3xl py-4">Unsere Todo's</h1>
+      <h1 class="text-3xl py-4">Meine Todo's</h1>
       <p v-if="openTodos.length" 
           class="text-xl">
         Offene Todos: {{openTodos.length}} 
